@@ -1,0 +1,6 @@
+data/uploads/
+data/outputs/
+data/jobs.json
+__pycache__/
+node_modules/
+dist/
