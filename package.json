@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite",
     "preview": "vite preview",
-    "api": "python3 server.py"
+    "api": "python3 server.py",
+    "test:backend": "python3 -m unittest discover -s tests -v"
   },
   "dependencies": {
     "vite": "latest",
